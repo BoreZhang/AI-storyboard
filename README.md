@@ -1,7 +1,7 @@
 # AI-storyboard
 # Abstract
 This project aims to generate high-quality storyboards using artificial intelligence. Through comprehensive background research, selecting appropriate tools and methods, conducting experiments, and evaluating the model's performance, the report concludes with improvement suggestions.
-#1. Introduction
+# 1. Introduction
 With the rapid development of the film and animation industries, traditional storyboard creation methods are becoming insufficient for efficient production. At the same time, AI-generated content technology has shown significant improvement, with tools like Midjourney and Stable Diffusion becoming popular in the film and game industries for generating concept art. These tools have produced impressive results, replacing some of the manual work in concept design. However, in the area of storyboards, mature techniques for producing high-quality results are still limited. This project aims to explore better tools and methods for creating storyboards using AI, particularly for films. This report elaborates on the background research, methodology, experiments, results analysis, and self-evaluation.
 
 # 2. Background Research
