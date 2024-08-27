@@ -1,6 +1,3 @@
-# Writing the README content to a markdown file
-
-readme_content = """
 # AI Storyboard Generation with StoryDiffusion
 
 ## Project Overview
