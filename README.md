@@ -1,4 +1,4 @@
-# Project Report of AI-Generated Storyboard
+# AI-Generated Storyboard
 
 ## Abstract
 This project aims to generate high-quality storyboards using artificial intelligence, with a focus on adapting and extending existing technologies. Through comprehensive background research, selecting appropriate tools and methods, conducting experiments, and evaluating model performance, we present our findings and suggestions for improvement in the field of AI-generated storyboards.
