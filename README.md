@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project is an AI-driven storyboard generation tool developed based on the StoryDiffusion framework. It integrates features from AutoStudio and introduces new modules aimed at enhancing character consistency, especially in scenes involving multiple characters. This enhancement makes the storyboard generation process more reliable and visually coherent, ensuring that characters maintain their identity and visual traits across different storyboard frames.
+This project is an AI-driven storyboard generation tool developed based on the StoryDiffusion framework. It integrates features from AutoStudio and introduces new modules aimed at enhancing character consistency, especially in scenes involving multiple characters. This enhancement makes the storyboard generation process more reliable and visually coherent, ensuring that characters maintain their identity and visual traits across different storyboard frames. 
+Video Explanation on https://1drv.ms/v/s!As7RbNhdzSP2gvQ9WQyjq5xm9YL8-g?e=F5rR0O
 
 ## Features
 
